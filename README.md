@@ -21,7 +21,7 @@
 
 - Curiosidades **Tengo 21 años**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fin:</h3>
 <p align="left">
 </p>
 
