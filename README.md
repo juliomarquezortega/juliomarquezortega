@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hola Soy Julio</h1>
+<h3 align="center">Vivo en España</h3>
 
-<!--
-**juliomarquezortega/juliomarquezortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudios **Ahora mismo en una Fp Daw 1**
 
-Here are some ideas to get you started:
+- Comidas Favoritas **Nuggets y pues hmmm arroz xd**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mis hobbies **Me gusta jugar juego,escuchar musica y ver historia**
+
+- Objetivos actuales **Completar la FP**
+
+- Animal favorito [Lobos](Lobos)
+
+- Youtuber favoritos [Rangugamer y rubiuuuuus](Rangugamer y rubiuuuuus)
+
+- Cosas que no me gustan **El ruido fuerte,PSOE y el calor**
+
+- Correo **jmarortg.@educaand.es**
+
+- no se que mas poner [hola](hola)
+
+- Curiosidades **Tengo 21 años**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
