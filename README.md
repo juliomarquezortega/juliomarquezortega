@@ -11,13 +11,13 @@
 
 - Animal favorito Lobo
 
-- #Youtuber favoritos Rangugamer y rubiuuuuus
+- Youtuber favoritos Rangugamer y rubiuuuuus
 
 - Cosas que no me gustan **El ruido fuerte,PSOE y el calor**
 
 - Correo **jmarortg.@educaand.es**
 
-- nNo se que mas poner,hola
+- No se que mas poner,hola
 
 - Curiosidades **Tengo 21 años**
 
