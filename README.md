@@ -17,7 +17,7 @@
 
 - Correo **jmarortg.@educaand.es**
 
-- no se que mas poner [hola](hola)
+- no se que mas poner,hola
 
 - Curiosidades **Tengo 21 años**
 
