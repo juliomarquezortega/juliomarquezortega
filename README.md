@@ -1,23 +1,26 @@
 <h1 align="center">Hola Soy Julio</h1>
-<h3 align="center">Vivo en España</h3>
+<h3 align="center">Vivo en España y esta es mi presentación</h3>
 
-- Estudios **Ahora mismo en una Fp Daw 1**
 
-- Comidas Favoritas **Nuggets y pues hmmm arroz xd**
+## Sobre mi
+- Estudios:**Ahora mismo en una Fp Daw 1**
 
-- Mis hobbies **Me gusta jugar vdeojuego,escuchar musica y ver historia**
+- Comidas Favoritas:**Nuggets y pues hmmm arroz xd**
 
-- Objetivos actuales **Completar la FP y estar tranquilo**
+- Mis hobbies:**Me gusta jugar vdeojuego,escuchar musica y ver historia**
 
-- Animal favorito Lobo
+- Objetivos actuales:**Completar la FP y estar tranquilo**
 
-- Youtuber favoritos Rangugamer y rubiuuuuus
+- Animal favorito:**Lobo**
 
-- Cosas que no me gustan **El ruido fuerte,PSOE y el calor**
+- Youtubers favoritos:**Rangugamer y Rubiuuuuus**
 
-- Correo **jmarortg.@educaand.es**
+- Cosas que no me gustan:**El ruido fuerte,PSOE y el calor**
 
-- No se que mas poner,hola
+- Correo:**jmarort@g.educaand.es**
+
+- No se que mas poner,espero que este curso me vaya bien o si no al menos lo intentaré
+
 
 - Curiosidades **Tengo 21 años**
 
