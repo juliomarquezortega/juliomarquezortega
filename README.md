@@ -11,7 +11,7 @@
 
 - Animal favorito Lobo
 
-- Youtuber favoritos [Rangugamer y rubiuuuuus](Rangugamer y rubiuuuuus)
+- Youtuber favoritos Rangugamer y rubiuuuuus
 
 - Cosas que no me gustan **El ruido fuerte,PSOE y el calor**
 
