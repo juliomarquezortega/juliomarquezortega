@@ -5,11 +5,11 @@
 
 - Comidas Favoritas **Nuggets y pues hmmm arroz xd**
 
-- Mis hobbies **Me gusta jugar juego,escuchar musica y ver historia**
+- Mis hobbies **Me gusta jugar vdeojuego,escuchar musica y ver historia**
 
-- Objetivos actuales **Completar la FP**
+- Objetivos actuales **Completar la FP y estar tranquilo**
 
-- Animal favorito [Lobos](Lobos)
+- Animal favorito Lobo
 
 - Youtuber favoritos [Rangugamer y rubiuuuuus](Rangugamer y rubiuuuuus)
 
@@ -17,7 +17,7 @@
 
 - Correo **jmarortg.@educaand.es**
 
-- no se que mas poner,hola
+- nNo se que mas poner,hola
 
 - Curiosidades **Tengo 21 años**
 
