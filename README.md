@@ -5,7 +5,7 @@
 ## Sobre mi
 - Estudios:**Ahora mismo en una Fp Daw 1**
 
-- SO favorito : **Windows 10**
+- SO favorito : **Windows 10** :desktop_computer:
 
 - Mis hobbies:**Me gusta jugar vdeojuego,escuchar música,la tecnología,hardware,software**
 
