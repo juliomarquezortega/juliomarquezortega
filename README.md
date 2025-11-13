@@ -24,7 +24,7 @@
   2. **Se cambiar piezas de ordenadores como cpu,gráficas,RAM,etc...**
   3. **Manejo mas o menos lo relacionado con la ofirmática**
   4. **Estudios de ciberseguridad durante un verano (Aunque ya no me acuerdo mucho,fue hace años)**
-
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 <h3 align="left">Fin:</h3>
 <p align="left">
