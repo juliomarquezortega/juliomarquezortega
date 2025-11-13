@@ -24,8 +24,8 @@
   2. **Se cambiar piezas de ordenadores como cpu,gráficas,RAM,etc...**
   3. **Manejo mas o menos lo relacionado con la ofirmática**
   4. **Estudios de ciberseguridad durante un verano (Aunque ya no me acuerdo mucho,fue hace años)**
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 <h3 align="left">Fin:</h3>
 <p align="left">
 </p>
